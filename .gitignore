@@ -1,0 +1,10 @@
+node_modules
+dist
+__pycache__
+.venv
+.pytest_cache
+.vercel
+*.pyc
+/my_env
+windfor_day.json
+backend/app/tests/test_analysis.py
